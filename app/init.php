@@ -1,3 +1,4 @@
 <?php
 
-echo "h";
+echo "semangat ulyaaaaa, lope lope youuuuuu";
+?>
