@@ -1,4 +1,3 @@
 <?php
 
-echo "semangat ulyaaaaa, lope lope youuuuuu";
-?>
+echo "semangat ulyaaaaa, lope  youuuuuu";
