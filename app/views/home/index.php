@@ -24,11 +24,15 @@
         <li><a href="#testimonial">Writing</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
+    <div class="div">
+        <img src="projectmvcpweb/public/img/pict6.jpg" alt="">
+    </div>
 </header>
 <section class="banner" id="home">
     <div class="textBx">
         <h2>Annyeong ! <br><span> Welcome to My Blog</span></h2>
         <!-- <h3>See the World from a Point of View</h3> -->
+
         <a href="#about" class="btn">About Me</a>
     </div>
 </section>
@@ -45,7 +49,7 @@
                 i want to major in business.</p>
         </div>
         <div class="w50">
-            <img src="gambar/about.jpg" >
+            <img src="projectmvcpweb/public/img/pict6.jpg" >
         </div>
 
     </div>
