@@ -9,7 +9,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/projectmvcpweb/public/css/style.css">
 
 </head>
 <body>
@@ -66,10 +66,10 @@
         </div> -->
         <div class="servicesBx">
             <img src="gambar/icon1.png" alt="">
-            <h2>Web Design</h2>
-            <p>Saya mencoba design pertama saya kemudian tertarik dalam dunia Design
-                dan sekarang masih tahap belajar
+            <h2>Tumpang Sari Tanam Rapat</h2>
+            <p>
             </p>
+            <a href="https://monitor.co.id/2018/10/09/tumpang-sari-tanam-rapat-solusi-cerdas-pemenuhan-kebutuhan-pangan-indonesia/">Bucin sek</a>
         </div>
         <!-- <div class="servicesBx">
             <img src="gambar/icon2.png" alt="">
