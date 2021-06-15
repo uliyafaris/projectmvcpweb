@@ -14,42 +14,42 @@
 </head>
 <body>
 <header>
-    <a href="#" class="logo">BLOG.ME</a>
+    <a href="#" class="logo">PETANI MILLENIAL</a>
     <div class="toggle"></div>
     <ul class="menu">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
-        <li><a href="#services">Content</a></li>
-        <li><a href="#work">My Design</a></li>
-        <li><a href="#testimonial">Writing</a></li>
+        <li><a href="#services">Artikel</a></li>
+        <li><a href="#work">Fitur</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
-    <div class="div">
-        <img src="projectmvcpweb/public/img/pict6.jpg" alt="">
-    </div>
 </header>
+
 <section class="banner" id="home">
     <div class="textBx">
-        <h2>Annyeong ! <br><span> Welcome to My Blog</span></h2>
+        
+        <h2>Selamat Datang ! <br><span> Petani Millenial <br> Indonesia</span></h2>
         <!-- <h3>See the World from a Point of View</h3> -->
-
-        <a href="#about" class="btn">About Me</a>
+            
+        <a href="#about" class="btn">About</a>
     </div>
 </section>
 <section class="about" id="about">
     <div class="heading">
-        <h2>About Me</h2>
+        <h2>About</h2>
     </div>
     <div class="content">
         <div class="contentBx">
-            <h3>Halo !</h3>
-            <p>Saya adalah seorang beginner di dunia IT tepatnya mahasiswa
-                Fakultas Ilmu Komputer di salah satu Universitas di Indonesia.
-                <br><br>I didn't really think about getting into the IT world, actually
-                i want to major in business.</p>
+            <h3>Salam Petani!</h3>
+            <p>Tak semua generasi milenial menjadi youtuber, selegram, atau tiktokers.
+                Di saat lebih dari 60 persen petani di Indonesia berusia 45 tahun ke atas,
+                banyak dari mereka yang memilih terjun di bidang pertanian.
+                Di tangan kreatif anak-anak muda hebat ini, hasil-hasil pertanian jadi
+                punya nilai ekonomis yang lebih. Mereka telah membuktikan bahwa menjadi petani itu keren.
+                .</p>
         </div>
         <div class="w50">
-            <img src="projectmvcpweb/public/img/pict6.jpg" >
+            <img src="/projectmvcpweb/public/img/pict1.jpg" >
         </div>
 
     </div>
@@ -216,7 +216,7 @@
     </div>
 </section>
 <div class="copyright">
-    <p>Copyright © 2021 Blog.Me.All Right Reserved</p>
+    <p>Copyright © 2021 Petani Millenial.All Right Reserved</p>
 </div>
 <script type="text/javascript">
     window.addEventListener('scroll',function(){
