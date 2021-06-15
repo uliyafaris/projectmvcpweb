@@ -57,7 +57,7 @@
 </section>
 <section class="services" id="services">
     <div class="heading white">
-        <h2>My Content</h2>
+        <h2>Artikel</h2>
         <!-- <p>A little story about my hobby</p> -->
     </div>
     <div class="content">
@@ -69,11 +69,14 @@
                 assumenda corrupti nemo ipsum itaque reprehenderit</p>
         </div> -->
         <div class="servicesBx">
-            <img src="gambar/icon1.png" alt="">
-            <h2>Tumpang Sari Tanam Rapat</h2>
-            <p>
-            </p>
-            <a href="https://monitor.co.id/2018/10/09/tumpang-sari-tanam-rapat-solusi-cerdas-pemenuhan-kebutuhan-pangan-indonesia/">Bucin sek</a>
+            <img src="/projectmvcpweb/public/img/jagung.jpg" alt="jagung">
+            <br>
+            <a href="https://monitor.co.id/2018/10/09/tumpang-sari-tanam-rapat-solusi-cerdas-pemenuhan-kebutuhan-pangan-indonesia/">Tumpang Sari Tanam Rapat : Solusi Cerdas Pemenuhan Kebutuhan Pangan Indonesia</a>
+            <br>
+            <br>
+            <h6>Sapto Fama
+            9 Oktober 2018</h6>
+
         </div>
         <!-- <div class="servicesBx">
             <img src="gambar/icon2.png" alt="">
@@ -90,21 +93,24 @@
                 assumenda corrupti nemo ipsum itaque reprehenderit</p>
         </div> -->
         <div class="servicesBx">
-            <img src="gambar/icon4.png" alt="">
-            <h2>Photography</h2>
-            <p>Saya menyukai Fotografi setiap melihat good view yang pas
-                saya mengambil objek gambar untuk fotografi </p>
+            <img src="/projectmvcpweb/public/img/aeroponik.png" alt="aeroponik">
+            <a href="https://www.pertanianku.com/sistem-aeroponik-solusi-terbaik-menanam-umbi-umbian-di-lahan-sempit/">Sistem Aeroponik, Solusi Terbaik Menanam Umbi-umbian di Lahan Sempit</a>
+            <br>
+            <br>
+            <h6>5 Agustus 2019</h6>
         </div>
         <div class="servicesBx">
-            <img src="gambar/icon5.png" alt="">
-            <h2>Content Writing</h2>
-            <p>Saat merasa bosan dengan tugas kuliah kadang saya membuat content writer puisi</p>
+            <img src="/projectmvcpweb/public/img/bawah.jpg" alt="aeroponik">
+            <a href="https://www.pertanianku.com/lahan-pertanian-di-bawah-tanah-seperti-apa/">Lahan Pertanian di Bawah Tanah, Seperti Apa?</a>
+            <br>
+            <br>
+            <h6>25 Juni 2019</h6>
         </div>
-        <div class="servicesBx">
-            <img src="gambar/icon6.png" alt="">
-            <h2>Video Editing</h2>
-            <p>Video editing juga merupakan salah satu hobi yang tidak terlewatkan</p>
-        </div>
+<!--        <div class="servicesBx">-->
+<!--            <img src="gambar/icon6.png" alt="">-->
+<!--            <h2>Video Editing</h2>-->
+<!--            <p>Video editing juga merupakan salah satu hobi yang tidak terlewatkan</p>-->
+<!--        </div>-->
     </div>
 </section>
 <section class="work" id="work">
