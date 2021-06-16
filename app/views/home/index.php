@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>PetaniMillenial</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="/projectmvcpweb/public/css/style.css">
@@ -20,7 +20,7 @@
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#services">Artikel</a></li>
-        <li><a href="#work">Fitur</a></li>
+        <li><a href="#work">Agripreuner</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
 </header>
@@ -28,7 +28,7 @@
 <section class="banner" id="home">
     <div class="textBx">
         
-        <h2>Selamat Datang ! <br><span> Petani Millenial <br> Indonesia</span></h2>
+        <h2>Halo ! <br><span> Petani Millenial <br> Indonesia</span></h2>
         <!-- <h3>See the World from a Point of View</h3> -->
             
         <a href="#about" class="btn">About</a>
@@ -40,23 +40,27 @@
     </div>
     <div class="content">
         <div class="contentBx">
-            <h3>Salam Petani!</h3>
+            <h3>Halo Young Agripreuner!</h3>
             <p>Tak semua generasi milenial menjadi youtuber, selegram, atau tiktokers.
                 Di saat lebih dari 60 persen petani di Indonesia berusia 45 tahun ke atas,
-                banyak dari mereka yang memilih terjun di bidang pertanian.
-                Di tangan kreatif anak-anak muda hebat ini, hasil-hasil pertanian jadi
-                punya nilai ekonomis yang lebih. Mereka telah membuktikan bahwa menjadi petani itu keren.
+                Indonesia memiliki potensi dan kekayaan sumber daya alam yang tidak terbatas dari sektor
+                pertanian dan kelautan. Sejak berdirinya negara hingga saat ini, sektor pertanian (agroindustri dan agribisnis)
+                dan sektor ekonomi maritim merupakan tulang punggung perekonomian nasional.Oleh karena itu
+                Petani milenial mempunyai peran penting untuk saat ini. Karena, untuk melanjutkan pembangunan
+                di sektor pertanian dibutuhkan dukungan dari SDM pertanian yang maju, mandiri, dan modern.
+
+
                 .</p>
         </div>
         <div class="w50">
-            <img src="/projectmvcpweb/public/img/pict1.jpg" >
+            <img src="/projectmvcpweb/public/img/pict7.jpg" >
         </div>
 
     </div>
     </div>
 </section>
 <section class="services" id="services">
-    <div class="heading white">
+    <div class="heading">
         <h2>Artikel</h2>
         <!-- <p>A little story about my hobby</p> -->
     </div>
@@ -115,24 +119,28 @@
 </section>
 <section class="work" id="work">
     <div class="heading">
-        <h2>My Design</h2>
-        <p>About My Design</p>
+        <h2>Agripreuner</h2>
+<!--        <p>About My Design</p>-->
     </div>
     <div class="content">
         <div class="workBx">
-            <img src="gambar/post.jpg" alt="">
+            <a href="https://www.youtube.com/watch?v=mBDLl_b0IUY"><img src="/projectmvcpweb/public/img/pict4.jpg" alt=""></a>
+            <h2><a href="https://www.youtube.com/watch?v=mBDLl_b0IUY">Agricultural Inovation</a></h2>
+            <p>(Inovasi Pertanian)</p>
         </div>
         <div class="workBx">
-            <img src="gambar/post2.jpg" alt="">
+            <a href="https://www.youtube.com/watch?v=7l2WyUWeVyo"><img src="/projectmvcpweb/public/img/pict12.jpg" alt=""></a>
+            <h2><a href="https://www.youtube.com/watch?v=7l2WyUWeVyo">Agricultural Technology</a></h2>
+            <p>(Teknologi Pertanian)</p>
         </div>
-        <div class="workBx">
-            <img src="gambar/post3.png" alt="">
-        </div>
-        <div class="workBx">
-            <img src="gambar/post4.png" alt="">
-        </div>
+<!--        <div class="workBx">-->
+<!--            <img src="gambar/post3.png" alt="">-->
+<!--        </div>-->
+<!--        <div class="workBx">-->
+<!--            <img src="gambar/post4.png" alt="">-->
+<!--        </div>-->
     </div> <div class="heading">
-        <a href="#" class="btn">View More</a>
+        <a href="https://www.youtube.com/watch?v=CdXWZwLkN2I&list=PLwWlPkIjEM-3WFJagjeedCJ5KXk2uTZ0g" class="btn">View More</a>
     </div>
 </section>
 <section class="testimonial" id="testimonial">
@@ -175,7 +183,7 @@
 <section class="contact" id="contact">
     <div class="heading white">
         <h2>Contact</h2>
-        <p>You can call me</p>
+        <p>FAQ</p>
     </div>
     <div class="content">
         <div class="contactInfo">
@@ -205,7 +213,7 @@
                     </div>
                     <div class="text">
                         <h3>Email</h3>
-                        <p>ulyafariz@gmail.com</p>
+                        <p>petanimillenial@gmail.com</p>
                     </div>
                 </div>
             </div>
