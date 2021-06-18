@@ -163,6 +163,9 @@
             Memberikan wawasan ilmu dan pengetahuan mengenai dunia pertanian</p>
             <h3>11 April 2018 08.04 WIB<br><span>Banyuwangi ku</span></h3>
         </div>
+    </div> <div class="heading">
+        <a href="##" class="btn">Daftar</a>
+    </div>
     </div>
 </section>
 <section class="contact" id="contact">
