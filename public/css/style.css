@@ -52,7 +52,7 @@ section{
     text-decoration: none;
     letter-spacing: 3px;
     border-radius: 80px;
-    border-color: 10px white;
+    border-color: white;
 
 }
 header{
@@ -101,6 +101,12 @@ header ul li a{
 }
 header.sticky ul li a{
     color: #111;
+}
+.about{
+    background: whitesmoke;
+    margin-top: 25px;
+    border-radius: 20px;
+    padding-top: 50px;
 }
 .heading{
     width: 100%;
@@ -165,7 +171,11 @@ img{
     font-size: 13px;
     font-family: "Berlin Sans FB Demi";
 }
-
+.work{
+    background: ghostwhite;
+    margin-top: 25px;
+    border-radius: 20px;
+    padding-top: 50px;
 }
 .work .content{
     display: flex;
@@ -304,11 +314,12 @@ img{
     padding: 10px;
 }
 /* Responsive */
-@media (max-width: 991px){
-    header, header.sticky{
+@media (max-width: 991px) {
+    header, header.sticky {
         padding: 20px 50px;
         z-index: 1000;
     }
+}
 /*    .menu{*/
 /*        position: fixed;*/
 /*        top: 75;*/
