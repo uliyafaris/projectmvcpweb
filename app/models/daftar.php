@@ -32,15 +32,12 @@ class Login{
         $konek=$this->db->getps();
         $v1=$d1;
         $v2=$d2;
-        $v1=$d1;
-        $v2=$d2;
-        $v1=$d1;
-        $v2=$d2;
+        $v3=$d3;
+        $v4=$d4;
+        $v5=$d5;
+        $v6=$d6;
 
-        $q="INSERT INTO pm
-            Values
-            ('$v1','$v2')
-            ";
+        $q="INSERT INTO pm Values ('$v1','$v2','$v3','$v4','$v5','$v6') ";
         mysqli_query($konek,$q);
         if (mysqli_affected_rows($konek)>0){
             $stat="Oke";
