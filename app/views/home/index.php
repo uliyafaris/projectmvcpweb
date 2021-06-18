@@ -32,7 +32,7 @@
         <h2>Halo ! <br><span> Petani Millenial <br> Indonesia</span></h2>
         <!-- <h3>See the World from a Point of View</h3> -->
             
-        <a href="#about" class="btn">About</a>
+        <a href="#about" class="btn">Login</a>
     </div>
 </section>
 <section class="about" id="about">

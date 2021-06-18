@@ -8,6 +8,7 @@
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
 }
+
 header a logo {
     color: green;
 }
@@ -304,6 +305,13 @@ img{
     text-align: center;
     padding: 10px;
 }
+
+.form{
+    position: center;
+}
+
+
+
 /* Responsive */
 @media (max-width: 991px){
     header, header.sticky{
