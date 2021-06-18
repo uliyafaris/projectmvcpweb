@@ -60,7 +60,7 @@
             </div>
         </div>
         <div class="col-12">
-            <button type="submit" class="btn btn-primary">Sign in</button>
+            <button type="submit" class="btn btn-primary"><a style="text-decoration: None; color: white" href="../home/index.php">Daftar</a></button>
         </div>
     </form>
 </div>
