@@ -21,6 +21,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#services">Artikel</a></li>
         <li><a href="#work">Agripreuner</a></li>
+        <li><a href="#Program">Program</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
 </header>
@@ -145,37 +146,21 @@
 </section>
 <section class="testimonial" id="testimonial">
     <div class="heading">
-        <h2>Puisi</h2>
-        <!-- <p>writing</p> -->
+        <h2>Program Petani Millenial</h2>
+         <p>Program petani milenial ini ditujukan khusus untuk mendorong regenerasi petani Indonesia, yakni dengan cara
+             menumbuhkan wirausahawan muda di bidang tani.Yang pastinya akan melibatkan banyak anak muda di seluruh Indonesia.</p>
     </div>
     <div class="content">
         <div class="testimonialBx">
-            <p> <br> <b>Paku Patah</b><br> Sudah berapa kali  mengeluh,
-                sudah berapa lama bertahan,
-                sudah berapa lama tak berdaya,
-                masih ingatkah berapa kali berjuang,
-                hingga kita ucapkan kata eluh sepanjang waktu
-                masih ingatkah berapa kali jatuh
-                hingga berkata aku tidak sanggup bertahan...
-                masih ingatkah anda berapa kali berjuang
-                sampai kata tak berdaya keluar dari mulut kita..
-                ini semua tentang diri kita
-                coba tanya masing-masing diri kita.
-                apa peran kita sebenarnya...</p>
+            <p> <br> <b>Pelatihan Petani Millenial</b><br>
+            Adanya program pelatihan petani millenial diharapkan
+            bisa menciptakan SDM yang kompetitif </p>
             <h3>02 Mei 2020 15.33 WIB<br><span>Selamat Hari Pendidikan Nasional</span></h3>
         </div>
         <div class="testimonialBx">
-            <p><br><b>Alur</b><br> Mengalirlah...
-                Hanya mengikuti alur hidup
-                Ikutilah...
-                Menerima kebenaran taqdir
-                Telusurilah
-                Mutiara itu tidak didepan mata
-                Temukanlah
-                Hati akan bersajak bahagia
-                Junjunglah,Dapatkan!!
-                Jikalau hidupmu melurus
-                Kau tidak hidup</p>
+            <p><br><b>Webinar Petani Millenial</b><br>
+            Webinar Petani Millenial merupakan kegiatan yang diadakan guna
+            Memberikan wawasan ilmu dan pengetahuan mengenai dunia pertanian</p>
             <h3>11 April 2018 08.04 WIB<br><span>Banyuwangi ku</span></h3>
         </div>
     </div>
