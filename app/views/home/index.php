@@ -21,7 +21,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#services">Artikel</a></li>
         <li><a href="#work">Agripreuner</a></li>
-        <li><a href="#Program">Program</a></li>
+        <li><a href="#testimonial">Program</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
 </header>
@@ -111,11 +111,7 @@
             <br>
             <h6>25 Juni 2019</h6>
         </div>
-<!--        <div class="servicesBx">-->
-<!--            <img src="gambar/icon6.png" alt="">-->
-<!--            <h2>Video Editing</h2>-->
-<!--            <p>Video editing juga merupakan salah satu hobi yang tidak terlewatkan</p>-->
-<!--        </div>-->
+
     </div>
 </section>
 <section class="work" id="work">
@@ -155,13 +151,13 @@
             <p> <br> <b>Pelatihan Petani Millenial</b><br>
             Adanya program pelatihan petani millenial diharapkan
             bisa menciptakan SDM yang kompetitif </p>
-            <h3>02 Mei 2020 15.33 WIB<br><span>Selamat Hari Pendidikan Nasional</span></h3>
+            <h3>Pelatihan Young Agriculture<br><span>25 Juli 2021 | Offline at Banyuwangi</span></h3>
         </div>
         <div class="testimonialBx">
             <p><br><b>Webinar Petani Millenial</b><br>
             Webinar Petani Millenial merupakan kegiatan yang diadakan guna
             Memberikan wawasan ilmu dan pengetahuan mengenai dunia pertanian</p>
-            <h3>11 April 2018 08.04 WIB<br><span>Banyuwangi ku</span></h3>
+            <h3>Webinar Petani<br><span>21 Juli 2021 | Zoom Meeting</span></h3>
         </div>
     </div>
 </section>
