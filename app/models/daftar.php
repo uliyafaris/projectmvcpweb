@@ -1,6 +1,6 @@
 <?php
 session_start();
-class Login{
+class DaftarProgram{
 
     private $db;
 

@@ -48,10 +48,7 @@
                 pertanian dan kelautan. Sejak berdirinya negara hingga saat ini, sektor pertanian (agroindustri dan agribisnis)
                 dan sektor ekonomi maritim merupakan tulang punggung perekonomian nasional.Oleh karena itu
                 Petani milenial mempunyai peran penting untuk saat ini. Karena, untuk melanjutkan pembangunan
-                di sektor pertanian dibutuhkan dukungan dari SDM pertanian yang maju, mandiri, dan modern.
-
-
-                .</p>
+                di sektor pertanian dibutuhkan dukungan dari SDM pertanian yang maju, mandiri, dan modern.</p>
         </div>
         <div class="w50">
             <img src="/projectmvcpweb/public/img/pict7.jpg" >
@@ -218,9 +215,6 @@
         var header = document.querySelector('header');
         header.classList.toggle('sticky', window.scrollY >0);
     });
-
-
 </script>
-
 </body>
 </html>
