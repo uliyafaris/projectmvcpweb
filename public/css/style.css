@@ -172,6 +172,7 @@ img{
     justify-content: space-between;
     flex-wrap: wrap;
     background: yellowgreen;
+
 }
 .work .content .workBx{
     width: 50%;
@@ -200,7 +201,7 @@ img{
     max-width: calc(50% - 40px);
     padding: 60px 40px;
     margin: 20px;
-    background: #268825;
+    background: yellowgreen;
 }
 .testimonial .content .testimonialBx p{
     color: #fff;
@@ -298,7 +299,7 @@ img{
     margin-bottom: 0;
 }
 .copyright{
-    background: #000;
+    background: #268825;
     color: #fff;
     text-align: center;
     padding: 10px;
