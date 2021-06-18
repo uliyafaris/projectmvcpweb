@@ -83,6 +83,20 @@
             9 Oktober 2018</h6>
 
         </div>
+        <!-- <div class="servicesBx">
+            <img src="gambar/icon2.png" alt="">
+            <h2>Web Development</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur
+                adipisicing elit. Modi quo beatae voluptate aperiam iusto officia
+                assumenda corrupti nemo ipsum itaque reprehenderit</p>
+        </div> -->
+        <!-- <div class="servicesBx">
+            <img src="gambar/icon3.png" alt="">
+            <h2>Android App</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur
+                adipisicing elit. Modi quo beatae voluptate aperiam iusto officia
+                assumenda corrupti nemo ipsum itaque reprehenderit</p>
+        </div> -->
         <div class="servicesBx">
             <img src="/projectmvcpweb/public/img/aeroponik.png" alt="aeroponik">
             <a href="https://www.pertanianku.com/sistem-aeroponik-solusi-terbaik-menanam-umbi-umbian-di-lahan-sempit/">Sistem Aeroponik, Solusi Terbaik Menanam Umbi-umbian di Lahan Sempit</a>
@@ -116,6 +130,12 @@
             <h2><a href="https://www.youtube.com/watch?v=7l2WyUWeVyo">Agricultural Technology</a></h2>
             <p>(Teknologi Pertanian)</p>
         </div>
+<!--        <div class="workBx">-->
+<!--            <img src="gambar/post3.png" alt="">-->
+<!--        </div>-->
+<!--        <div class="workBx">-->
+<!--            <img src="gambar/post4.png" alt="">-->
+<!--        </div>-->
     </div> <div class="heading">
         <a href="https://www.youtube.com/watch?v=CdXWZwLkN2I&list=PLwWlPkIjEM-3WFJagjeedCJ5KXk2uTZ0g" class="btn">View More</a>
     </div>
@@ -138,9 +158,6 @@
             Webinar Petani Millenial merupakan kegiatan yang diadakan guna
             Memberikan wawasan ilmu dan pengetahuan mengenai dunia pertanian</p>
             <h3>Webinar Petani<br><span>21 Juli 2021 | Zoom Meeting</span></h3>
-        </div>
-        <div class="heading">
-            <a href="../daftar/index.php" class="btn">Daftar Program</a>
         </div>
     </div>
 </section>
