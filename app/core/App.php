@@ -8,9 +8,6 @@ class App{
 
     public function __construct()
     {
-        //echo 'Suda masuk App';
-        //var_dump($_GET);
-
         $url = $this->parseURL();
 
         if(isset($url)){
@@ -20,13 +17,13 @@ class App{
             }
         }
 
-        require_once '../app/controllers/' . $this->controller . '.php';
-        $this->controller = new $this->controller;
+        require_once '../app/controllers/' . $this->controller . '.php'; #mengambil controller
+        $this->controller = new $this->controller; # instansiasi supaya bisa panggil method
 
         //method
         if (isset($url[1])){
             if (method_exists($this->controller,$url[1])){
-                $this->method=$url[1];
+                $this->method=$url[1]; #kalo ada ditimpa
                 unset($url[1]);
             }
         }
@@ -34,9 +31,10 @@ class App{
         //param
         if (!empty($url)){
             $this->params = array_values($url);
-            //var_dump($url);
         }
 
+        // jalankan controller & method. serta kirimkan
+        // params jika ada
         call_user_func_array([$this->controller,$this->method],$this->params);
 
     }

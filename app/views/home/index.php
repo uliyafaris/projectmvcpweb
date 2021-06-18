@@ -159,9 +159,6 @@
             Memberikan wawasan ilmu dan pengetahuan mengenai dunia pertanian</p>
             <h3>Webinar Petani<br><span>21 Juli 2021 | Zoom Meeting</span></h3>
         </div>
-    </div> <div class="heading">
-        <a href="##" class="btn">Daftar</a>
-    </div>
     </div>
 </section>
 <section class="contact" id="contact">
