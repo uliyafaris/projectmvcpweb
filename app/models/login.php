@@ -43,7 +43,7 @@ class Login{
     }
 
     public function ambildata(){
-        $q="SELECT * FROM akun";
+        $q="SELECT * FROM pm";
         $d=mysqli_query($this->db->getps(),$q);
         while($temp = mysqli_fetch_array($d)){
             $hasil[] = $temp;

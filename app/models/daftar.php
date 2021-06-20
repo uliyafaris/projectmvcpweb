@@ -1,6 +1,8 @@
 <?php
 session_start();
-class Daftar{
+
+class DaftarProgram{
+
 
     private $db;
 
